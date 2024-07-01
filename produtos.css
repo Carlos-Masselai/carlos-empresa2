@@ -7,10 +7,56 @@ ul {
   justify-content: space-between;
 }
 
-li {
-  margin
 
-.Calça{
-  width: 10%;
-  height: auto;
+
+  .calca{
+    width: 100px;
+  }
+
+.moletom{
+  width: 100px;
 }
+
+.camiseta{
+  width: 100px;
+}
+.tn{
+  width: 100px;
+}
+
+.bbjc{
+  width: 100px;
+}
+
+.chinelo{
+  width: 100px;
+}
+
+
+header {
+  background-color: #FF0000;
+  padding: 20px;
+  text-align: center;
+}
+
+
+
+<
+<footer>
+    <p>&copy; G&C.Emporium2024</p>
+</footer>
+
+
+.footer {
+  background-color: #FF0000;
+  padding: 10px;
+  text-align: center;
+  clear: both;
+}
+
+nav a {
+  color: #000000;
+  text-decoration: none;
+}
+
+
